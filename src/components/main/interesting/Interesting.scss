@@ -1,0 +1,118 @@
+.interesting {
+  position: relative;
+  padding: 4dvh 0;
+  &::after {
+    top: -4px;
+    bottom: 0;
+    right: 3vw;
+    height: 100%;
+    width: 50%;
+    position: absolute;
+    content: "";
+    border-right: 4px solid hsl(279, 32%, 52%);
+    border-top: 4px solid hsl(279, 32%, 52%);
+    border-top-right-radius:100px  ;
+    @media (max-width: 800px){
+      display: none;
+    }
+  }
+  &__title {
+    text-align: center;
+    margin: 40px 0;
+  }
+  &__list {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 2em;
+    @media (max-width: 992px){
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  &__card {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    box-shadow: 0 0 12px 4px rgba(150, 150, 150, .4);
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: 0.5rem;
+    @media (max-width: 992px){
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    box-shadow: 0 0 7px 4px hsl(180, 0%, 55%);
+    background-color: rgba(255, 255, 255, 0.8);
+    position: relative;
+    }
+  }
+}
+.card {
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  &::before {
+    content: "";
+  background-color: rgb(100, 58, 98);
+  width: 80%;
+  height: 1.4px;
+  position: absolute;
+  top: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  right: 28%;
+  @media (max-width: 992px){
+    display: none;
+    }
+  }
+  &__wrap {
+    text-align: center;
+  }
+  &__count {
+    margin: 20px auto;
+    font-size: 2em;
+    font-weight: 600;
+    background-color: rgb(100, 58, 98);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #eee;
+    //margin-top: 0.5em;
+    @media (max-width: 992px){
+      align-self: center;
+    font-size: 2em;
+    font-weight: 600;
+    background-color: rgb(100, 58, 98);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #eee;
+    position: absolute;
+    left: -23px;
+    top: -37px;
+    }
+  }
+  &__body {
+    padding: 15px;
+  } 
+  &__description {
+    font-size: 1.3em;
+    color:  hsl(344, 14%, 15%);
+    @media (max-width: 992px){
+      margin: 0;
+    }
+  }
+}
+.title-two {
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 2.8em;
+  text-align: center;
+  color: hsl(344, 14%, 15%);
+  margin: 0;
+    @media (max-width: 992px) {
+      font-size: 2em;
+      color: hsl(344, 14%, 15%);
+    }
+}

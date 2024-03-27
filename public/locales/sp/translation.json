@@ -1,0 +1,194 @@
+{
+  "header": {
+    "language": "SP"
+  },
+  "main": {
+    "title": "Curso online `Macarrón`",
+    "description1": "aprende a cocinar gourmet",
+    "description2": "postre francés",
+    "description3": "en 3 días",
+    "title-one": "¿Para quién es este curso?",
+    "description-one": "Descubre más sobre el curso en un minuto"
+  },
+  "interesting":{
+    "title-one": "Para los amantes de las macarrón",
+    "text-one": "Para aquellos que adoran los macarrones y quieren aprender a cocinarlos.",
+    "title-two": "Para aquellos que no pueden hacerlo.",
+    "text-two": "Para aquellos que ya intentaron cocinar pasta, pero los resultados fueron inconsistentes.",
+    "title-three": "Para pasteleros",
+    "text-three": "Para aquellos que quieran explorar un nuevo nicho y ampliar su gama de productos."
+  },
+  "video": {
+    "picture-text":  "Descubre más sobre el curso en 1 minuto"    
+   
+  },
+  "anons": {
+    "title": "¿Qué incluye el curso?",
+    "title-one": "Lecciones en vídeo",
+    "text-one": "Recibirás un video de todo el proceso de cocción. Todos los videos están expresados ​​en ruso y tienen subtítulos.",
+    "link-one": "Ver ejemplo",
+    "title two": "archivos PDF",
+    "text-two": "Recibirás un archivo con instrucciones detalladas que describen todo el proceso de cocción",
+    "link-two": "Ver ejemplo",
+    "title-three": "Comentarios",
+    "text-three": "Puedes hacer una pregunta si algo no te funciona",
+    "link-three": "Enlace a WhatsApp"
+  },
+  "error": {
+    "title": "Dificultades comunes",
+    "description": "que solucionamos durante el curso",
+    "1": "¿Por qué la pasta está vacía por dentro?",
+    "2": "¿Por qué las tapas no están parejas?",
+    "3": "¿Por qué la pasta queda empapada después del relleno?",
+    "4":"¿Por qué explotan las tapas?",
+    "5": "¿Por qué no crecen las faldas?",
+    "6": "¿Cómo elegir la temperatura adecuada para tu horno?",
+    "7": "¿Por qué no sale el merengue?",
+    "8": "¿Por qué necesitas un horno eléctrico?"
+  },
+  "learn": {
+    "title": "Después de completar el curso aprenderás",
+    "1": "Cocina macarrones con merengue italiano.",
+    "2": "Podrás obtener buenos resultados consistentemente.",
+    "3": "Aprenderás a cocinar más de 30 rellenos de diferentes sabores.",
+    "4": "Aprende a preparar aderezos para pasta batida.",
+    "5": "Aprende a hacer pasteles de diferentes formas.",
+    "6": "Aprende a hacer dibujos en pasta.",
+    "7": "Puedes aceptar pedidos de forma segura y aumentar tus ventas."
+  },
+  "feedback": {
+    "title": "Comentarios de mis alumnos",
+    "next": "Back",
+    "prev": "Adelante",
+    "button": "visitar página",
+    "title-post1": "Esetonia, Tartu",
+    "post1": "Buenas tardes, quiero expresarte mi más profundo agradecimiento por el plato de pasta. ¡Ahora las cocino con aún más alegría, amor e inspiración! Me complació aún más tu actitud, muy cálida y reverente. El hecho de que solucionamos mis errores me dio resultados del 100%. Ya no tengo nada que desperdiciar. Creaste un curso que funciona",
+    "title-post2": "Türkiye, Antalya",
+    "post2": "¡Muchas gracias! Estoy en shock. Todo salió bien la primera vez. Me ayudaste mucho. Finalmente puedo empezar a vender.",
+    "title-post3": "Estados Unidos, Nueva York",
+    "post3": "Después de comprar el curso, pensé... ¿Por qué lo compré? Realmente hay pocas recetas en Internet, pero después de tus primeros comentarios, quedé 100% satisfecho con la compra del curso. Hay muchas recetas, pero el objetivo es comentarios claros y detallados. Muchas gracias por responder siempre rápido y estar atento",
+    "title-post4": "Canadá, Alberta",
+    "post4": "Quería agradecerles por el maravilloso curso. Seré honesto con ustedes, este es el segundo plato de pasta que compré. Tomé el primero en mi ciudad y quedé decepcionado. Tomé el segundo plato con. Fue el mejor curso en línea. Mis macarons resultaron perfectos en el primer intento. Eres una cocinera y mentora increíble",
+    "title-post5": "Liverpool",
+    "post5":"¡Hola Elena! Quiero mostrarte una foto del resultado de hoy. Todos mis macarons quedaron sin vacíos, llenos. ¡Estoy tan feliz de haber obtenido ese resultado! Muchas gracias por tu maravilloso curso.",
+    "title-post6": "Türkiye",
+    "post6": "¡Muchas gracias! Estoy en shock. Todo salió bien la primera vez. Me ayudaste mucho. Finalmente puedo empezar a vender",
+    "title-post7": "Estados Unidos, Brooklyn",
+     "post7": "Me alegro mucho de haber encontrado tu cuenta, porque todos mis intentos de hacer pasteles de macarrones antes terminaron en fracaso. Intenté usar recetas de YouTube, pero el resultado fue malo. ¡Gracias por tu curso y comentarios! ¡Se lo recomiendo a todos y compren este plato de pasta!"
+  },
+  "about": {
+    "title": "Convertirse en pastelero significa:",
+    "description1": "Sal de tu rutina diaria y descubre tu potencial creativo.",
+    "description2": "Decide cambiar tu vida y hacer algo que te proporcione placer.",
+    "description3":"Empiece a ganar dinero con esto y a recibir elogios agradecidos.",
+    "text1":"Decidí cambiar mi vida y dejé mi trabajo diario para concentrarme en crear macarons. Ahora no solo disfruto de mi creatividad, sino que también he aumentado significativamente mis ingresos. Esto me permite viajar y compartir mi pasión por hacer macarons. con otros.",
+    "text2": "Todo empezó hace cinco años, cuando sólo hacía pasteles por encargo y trabajaba en mi trabajo principal. Luego decidí diversificar mi surtido con un postre cada vez más popular: los macarrones.",
+    "text3":"Al realizar mis primeros pedidos, encontré dificultades como tapas explosivas y empastes con fugas, pero al final, con mucho trabajo, obtuve excelentes resultados y clientes satisfechos.",
+    "text4": "Entonces algunos de mis clientes y amigos me pidieron que les enseñara a cocinar macarons. Ya conocía bien toda la tecnología de la cocina y entendía que para enseñar, yo mismo tenía que conocer bien este tema. Mi La conciencia simplemente no me permitía enseñar sin conocer todo el proceso. Y después de ver los excelentes resultados de mis amigos, me alegré y decidí que necesitaba desarrollar este proyecto y grabar un curso completo sobre su preparación.",
+    "text5": "Además, durante estos dos años, he estado actualizando constantemente el programa del curso y los videos para que contenga instrucciones actualizadas y precisas. Estas son lecciones en video completas, donde se elimina todo lo innecesario. La ventaja es que ¡Estos videos se pueden ver tantas veces como quieras y no aprenderás!",
+    "text6":"Si no tienes tiempo para probar recetas de YouTube, ¡aquí tienes tu salvación! ¡Aprende a cocinar un tipo de postre a la perfección, pero luego sabrás todo sobre él!"
+    
+  },
+  "price": {
+    "title-big": "Mis cursos",
+    "alt1": "Cubierta para tapa y capa de relleno",
+    "alt2": "Portada para un curso sobre mayúsculas",
+    "alt3": "Portada para un curso sobre toppings",
+    "alt4": "Portada para curso de Instagram",
+    "alt5": "Cubierta de todos mis cursos",
+    "title1": "Macarrones. Tapas y rellenos",
+    "title2": "Tapas",
+    "title3": "Rellenos",
+    "title4": "Curso de Instagram",
+    "title5": "Todos los cursos + bonificación",
+    "cost": "Precio",
+    "btn": "Comprar",
+    "question": "Muestra lo que incluye el curso"
+  },
+  "detailsOne": {
+    "1": "Ficha técnica con descripción detallada de todo el proceso de elaboración de pasteles de macaron, con receta de tapas sobre merengue italiano con contenido reducido de azúcar. Archivo PDF de 30 páginas.",
+    "2": "Guía de compra de inventario con enlaces a tiendas en línea.",
+     "3": "Plantillas para tapas para hornear.",
+     "4": "Ficha técnica con descripción detallada del proceso de elaboración de rellenos de diferentes sabores. Archivo PDF de 40 páginas.",
+     "5": "Video de todo el proceso de preparación de las tapas.",
+     "6": "Video de cómo preparar varios rellenos básicos.",
+     "7": "Video sobre cómo hacer dibujos y hornear macarons con formas.",
+     "8": "Consulta, respuesta a dudas, análisis de errores, asistencia para llevarlo al nivel de ventas"
+   },
+  
+  "detailsTwo": {
+    "1": "Ficha técnica con descripción detallada de todo el proceso de elaboración de pasteles de macaron, con receta de tapas sobre merengue italiano con contenido reducido de azúcar. Archivo PDF de 30 páginas.",
+    "2": "Guía de compra de inventario con enlaces a tiendas en línea.",
+    "3": "Video de todo el proceso de preparación de las tapas.",
+    "4": "Plantillas para tapas para hornear.",
+    "5": "Video sobre cómo hacer dibujos y hornear tapas con formas."
+  },
+  "detailsThree": {
+    "1": "Ficha técnica con descripción detallada del proceso de elaboración de rellenos de diferentes sabores. Archivo PDF de 40 páginas.",
+     "2": "Video de cómo preparar varios rellenos básicos.",
+     "3": "Principios para hacer ganache.",
+     "4": "Cocinar diferentes sabores de confitado.",
+     "5": "Ganache de vainilla sobre chocolate blanco.",
+     "6": "Ganache clásica de chocolate con leche.",
+     "7": "Ganache de chocolate amargo clásico.",
+     "8": "Ganache de chocolate con leche Oreo.",
+     "9": "Ganache de naranja.",
+     "10": "`Pistacho-frambuesa` sobre chocolate blanco.",
+     "11": "Amaretto de avellana.",
+     "12": "Cappuccino Baileys.",
+     "13": "Tarta de queso con semillas de amapola y limón.",
+     "14": "Ganache de frutas y bayas: fresas, arándanos, grosellas, mango, etc.",
+     "15": "Café con leche de calabaza.",
+     "16": "Ganache cremosa batida.",
+     "17": "Ganache De Leche Batida Kinder.",
+     "18": "Chocolate con leche y maní con banoffee.",
+     "19": "Ganache batida `Gingerbread latte` o `Cappuccino`.",
+     "20": "Ganache de caramelo.",
+     "21": "Ganache batida `Doble Coco` o `Bounty`.",
+     "22": "Snickers con relleno de caramelo salado.",
+     "23": "Ganache `Brie-Pera`.",
+     "24": "Opciones de sabor: menta, lavanda, limón, vainilla."
+  },
+  "detailsFour": {
+    "1": "Un libro o archivo PDF con una descripción detallada de todos los pasos para desarrollar tu cuenta de Instagram.",
+     "2": "En el libro, después de cada sección, encontrarás tareas que puedes enviar para su revisión.",
+     "3": "Acceso a 14 lecciones en video que vienen además del libro."
+  },
+  "detailsFive": {
+    "1": "Todo el curso de elaboración de pasteles de pasta: tapas y rellenos.",
+     "2": "Todo el curso 'Promoción de Instagram para pasteleros'.",
+     "3": "BONIFICACIÓN. Curso de cocina de tarta de queso esquimal."
+  },
+  "recive": {
+    "1": "En el sitio ",
+    "1.1": " - después del pago, recibirás un enlace de invitación a un canal cerrado de Telegram.",
+    "strong1": "Lava.arriba",
+    "2": "Yo ",
+    "2.1": "tienes acceso al canal.",
+    "strong2": "apruebo ",
+    "3": "Si no te sientes cómodo usando el canal de Telegram, puedo darte acceso a mi canal privado de YouTube.",
+    "4":"Para contactarme, utilice cualquier mensajero que le resulte conveniente."
+  },
+  "question": {
+    "title": "Respuestas a preguntas frecuentes",
+    "1": "¿Por cuánto tiempo tendré acceso al curso?",
+    "2": "Si no tengo telegramas ¿cómo puedo conseguir el curso?",
+     "3": "¿Cuántos videos se incluyen en el curso `Mayúsculas solamente`?",
+     "4": "¿Cuántos videos se incluyen en el curso 'Solo aderezos'?",
+     "5": "¿Puedo pagar el curso mediante PayPal?",
+     "6": "¿Puedo utilizar otro método de pago?",
+     "7": "¿Qué debo hacer si ingresé una dirección de correo electrónico con un error al comprar?"
+  },
+  "answer": {
+    "1": "Para ser honesto, no planeo eliminar tu acceso a los archivos. Usa tantos como quieras. Pero tampoco puedo garantizar que los servicios de Internet funcionen de manera estable durante muchos años.",
+     "2": "Para aquellos que no tienen Telegram, les proporcionaré acceso a mi canal privado de YouTube. Todos los videos estarán disponibles allí. Después del pago, infórmeme de su deseo de obtener acceso a YouTube.",
+     "3": "Actualmente, este curso incluye 10 vídeos con una duración total de aproximadamente 1 hora 30 minutos. El curso también va acompañado de un mapa técnico detallado o un archivo PDF (30 páginas)",
+     "4": "Actualmente, este curso incluye 12 videos con una duración total de aproximadamente 1 hora 30 minutos. El curso también viene con un mapa técnico detallado o un archivo PDF con recetas de más de 30 sabores diferentes de rellenos (40 páginas)" ,
+     "5": "Sí, esto se puede hacer. Después del pago, envíame información sobre tu pago de cualquier manera conveniente y te proporcionaré acceso al curso. Debes transferir el pago del curso a d.panchenko1974@gmail .com",
+     "6": "Sí, puedes transferir dinero de cualquier forma que te resulte conveniente: Western Union, MoneyGram, KoronaPay y otras. También puedes realizar una transferencia utilizando datos bancarios si estás en Turquía, Georgia o Rusia. Para conocer el detalles de dichas traducciones, escríbame una pregunta en mensajes privados.",
+     "7": "Esto no es un problema. Contáctame y envíame la confirmación del pago. Si el pago se ha completado, te proporcionaré acceso al curso."
+  }
+
+} 
+
+

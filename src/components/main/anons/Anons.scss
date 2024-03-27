@@ -1,0 +1,102 @@
+.anons {
+  background-color: rgb(100, 58, 98);
+  &__wrap {
+   display: grid;
+   grid-template-columns: 1fr 2fr;
+   gap: 20px;
+   padding: 60px; 
+   @media (max-width: 1220px){
+    display: block;
+    position: relative;
+   }
+  }
+  &__title {
+    @media (max-width: 1220px){
+      text-align: center;
+    }
+  }
+  &__section {
+    text-align: center;
+  }
+}
+.course {
+  &__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 38px;
+    color: hsl(344, 14%, 15%);
+    @media (max-width: 1180px){
+      flex-wrap: wrap;
+      gap: 38px; 
+    }
+    @media (max-width: 800px){
+      flex-wrap: wrap;
+      gap: 40px; 
+    }
+  }
+  &__item {
+    max-width: 47%;
+    @media (max-width: 1180px){
+      max-width: 40%;
+    }
+    @media (max-width: 800px){
+      max-width: 100%;
+    }
+  }
+}
+.a-title {
+  color: rgb(254, 251, 251);
+  margin: 0;
+  font-weight: 600;
+  font-size: 2.8em;
+  @media (max-width: 1180px){
+    font-size: 1.8rem;
+    font-weight: 400;
+  }
+  &__text {
+    @media (max-width: 1180px){
+      margin-top: 0;
+    } 
+  }
+}
+.a-card {
+  &__wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color:rgb(254, 251, 251);
+    box-shadow: 0px 0.5px 0.6px hsl( 303deg 35% 16% / 0.36); 
+  }
+  &__title {
+    font-weight: 600;
+    font-size: 1.5em;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  &__description {
+    font-size: 1.3em;
+  }
+}
+.btn {
+  background-color: rgb(100, 58, 98);
+    color: rgb(254, 251, 251);
+    border: 2px solid rgb(100, 58, 98);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: 0.2s;
+    &:hover {
+      background-color: rgb(254, 251, 251);
+    color: hsl(344, 14%, 15%);
+    border: 2px solid rgb(100, 58, 98);
+    box-shadow:  0px 1.4px 2.1px hsl( 0deg 0% 63% / 0.18);
+    transition: 0.2s;
+    }
+}

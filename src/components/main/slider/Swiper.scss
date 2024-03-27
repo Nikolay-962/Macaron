@@ -1,0 +1,128 @@
+
+.slider {
+  position: relative;
+  &::after {
+    top: 0;
+    bottom: 0;
+    left: 3vw;
+    height: 99%;
+    width: 50%;
+    position: absolute;
+    content: "";
+    border-left: 4px solid hsl(279, 32%, 52%);
+    border-bottom: 4px solid hsl(279, 32%, 52%);
+    border-bottom-left-radius:100px;
+    @media (max-width: 800px){
+      display: none;
+    }
+  }
+  &__wrap {
+    padding: 60px 0;
+  }
+}
+.swiper-container {
+  height: 17rem;
+  padding: 1rem 0;
+  position: relative;
+}
+.swiper-slide {
+  width: 37rem;
+  height: 16rem;
+  position: relative;
+}
+@media  (max-width: 985px) {
+  .swiper-container { 
+    height: 16rem;
+  }
+  .swiper-slide {
+    width: 18rem !important;
+    height: 14rem !important;
+  }
+  .swiper-slide img {
+    width: 20rem !important;
+    height: 14rem !important;
+  }
+}
+@media  (min-width: 985px) {
+  .swiper-container { 
+    height: 16rem;
+  }
+  .swiper-slide {
+    width: 18rem !important;
+    height: 14rem !important;
+  }
+  .swiper-slide img {
+    width: 20rem !important;
+    height: 14rem !important;
+  }
+}
+@media  (max-width: 500px) {
+  .swiper-container { 
+    height: 16rem;
+  }
+  .swiper-slide {
+    width: 20rem !important;
+    height: 13rem !important;
+  }
+  .swiper-slide img {
+    width: 21rem !important;
+    height: 15rem !important;
+  }
+}
+.swiper-slide img {
+  height: 16rem;
+  border-radius: 2rem;
+  object-fit: cover;
+  display: block;
+  width: 112%;
+  box-shadow: 0 0 7px 1px hsl(0, 0%, 30%);
+}
+.slider-controler {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.slider-controler .swiper-button-next {
+  position: absolute;
+  left: 1rem !important;
+}
+@media (max-width: 990px) {
+  .slider-controler .swiper-button-next {
+    left: 70% !important;
+    transform: translateX(-70%) !important;
+  }
+}
+@media (max-width: 450px) {
+  .slider-controler .swiper-button-next {
+    left: 80% !important;
+    transform: translateX(-80%) !important;
+  }
+}
+@media (max-width: 990px) {
+  .slider-controler .swiper-button-prev {
+    left: 30% !important;
+    transform: translateX(-30%) !important;
+  }
+}
+@media (max-width: 450px) {
+  .slider-controler .swiper-button-prev {
+    left: 20% !important;
+    transform: translateX(-20%) !important;
+  }
+}
+ .swiper-scrollbar {
+  height: 0 !important;
+}
+.slider-arrow  {
+  font-size: 2rem;
+  color: #3089f6;
+  position: absolute; 
+  top: 77% !important;
+}
+.swiper-pagination {
+  position: relative;
+  width: 100% !important;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+}
