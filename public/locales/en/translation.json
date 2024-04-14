@@ -2,6 +2,12 @@
   "header": {
     "language": "EN"
   },
+  "seo": {
+    "lang": "en",
+    "title": "Macaron cake",
+    "keywords": "macaron training, macaron cakes, how to cook macarons, macaron_by_elena",
+    "description": "I teach you how to make a delicious dessert - Macaron. Even if you are not a pastry chef, be sure to try yourself in this role"
+  },
   "main": {
     "title": "Online course on `macarons`",
     "description1": "learn to cook gourmet",
@@ -156,7 +162,7 @@
     "2": "The entire course 'Instagram Promotion for Confectioners'.",
     "3": "BONUS. Eskimo-cheesecake cooking course."
   },
-  "receive": {
+  "recive": {
     "1": "On the site",
     "1.1": " - after payment, you will receive an invitation link to a closed Telegram channel.",
     "strong1": "Lava.top",
@@ -176,6 +182,7 @@
     "6": "Can I use another payment method?",
     "7": "What should I do if I entered an email address with an error when purchasing?"
   },
+  
   "answer": {
     "1": "To be honest, I do not plan to remove your access to files. Use as much as you want. But I also cannot guarantee that Internet services will work stably for many years.",
     "2": "For those who do not have telegrams, I will provide access to my private YouTube channel. All videos will be available there. After payment, inform me of your desire to gain access to YouTube.",
