@@ -1,0 +1,190 @@
+{
+  "header": {
+    "language": "EN"
+  },
+  "main": {
+    "title": "Online course on `macarons`",
+    "description1": "learn to cook gourmet",
+    "description2": "French dessert",
+     "description3": "in 3 days",
+    "title-one": "Who is this course for?",
+    "description-one": "Get details in 1 minute"
+   },
+   "interesting":{
+     "title-one": "For fans of macarons",
+     "text-one": "This is for those who've already attempted to make macarons but didn't consistently achieve goodresults",
+     "title-two": "For those who can't cook them",
+     "text-two": "This is for those who've already attempted to make macarons but didn't consistently achieve good results",
+     "title-three": "For confectioners",
+     "text-three": "For those who want to explore a new area and expand their range"
+   },
+   "video": {
+     "picture-text":  "Find out more about the course in 1 minute"
+   },
+   "anons": {
+    "title": "What's included in the course?",
+    "title-one": "Video lessons",
+    "text-one": "You receive a video of the entire cooking process. All videos are voiced in Russian and have subtitles.",
+    "link-one": "See example",
+    "title-two": "PDF files",
+    "text-two": "You receive a file with detailed instructions that describes the entire cooking process",
+    "link-two": "See example",
+    "title-three": "Feedback",
+    "text-three": "You can ask a question if something doesn't work out for you",
+    "link-three": "Link to WhatsApp"
+  },
+  "error": {
+    "title": "Common Difficulties",
+    "description": "that we solve on the course",
+    "1": "Why are the shells inside empty?",
+    "2": "Why are the shells uneven?",
+    "3": "Why did the macarons get wet after the filling?",
+    "4": "Why do the shells 'explode'?",
+    "5": "Why don't skirts grow?",
+    "6": "How to choose the right temperature for your oven?",
+    "7": "Why is the meringue not going well?",
+    "8": "Why do I need an electric oven?"
+  },
+  "learn": {
+    "title": "After completing the course you will learn",
+    "1": "Cook macarons with Italian meringue.",
+    "2": "You will be able to consistently get good results.",
+    "3": "You will learn how to cook more than 30 fillings of different flavors.",
+    "4": "Learn how to make whipped pasta toppings.",
+    "5": "Learn how to make different shaped cakes.",
+    "6": "Learn how to make drawings on pasta.",
+    "7": "You can safely accept orders and increase your sales."
+  },
+  "feedback": {
+    "title": "Feedback from my students",
+    "next": "Back",
+    "prev": "Forward",
+    "button": "visit page",
+    "title-post1": "Esetonia, Tartu",
+    "post1": "Good afternoon, I want to express my deepest gratitude to you for the pasta course. Now I cook them with even more joy, love and inspiration! I was even more pleased with your attitude, very warm and reverent. The fact that we sorted out my mistakes , gave me 100% results. I no longer have anything going to waste. You created a course that works",
+    "title-post2": "Türkiye, Antalya",
+    "post2": "Thank you very much! I'm just shocked. Everything worked out the first time. You helped me a lot. Finally I can start selling",
+    "title-post3": "USA, New York",
+    "post3": "After purchasing the course, I thought... Why did I buy it? Are there really few recipes on the Internet, but after your first feedback, I was 100% satisfied with the purchase of the course. There are a lot of recipes, but the whole point is clear and detailed feedback Thank you very much for always responding quickly and being attentive",
+    "title-post4": "Canada, Alberta",
+    "post4": "I wanted to thank you for the wonderful course. I’ll be honest with you, this is the second pasta course I bought. I took the first one in my city and was disappointed. I took the second course with you. It was the best online course. My macarons turned out perfect on the first try. You are an amazing cook and mentor",
+    "title-post5": "Liverpool",
+    "post5": "Hello Elena! I want to show you a photo of today's results. All my macarons turned out without emptiness, full. I am so happy that I got such a result! Thank you very much for your wonderful course",
+    "title-post6": "Türkiye",
+    "post6": "Thank you very much! I'm just shocked. Everything worked out the first time. You helped me a lot. Finally I can start selling",
+    "title-post7": "USA, Brooklyn",
+     "post7": "I'm so glad I found your account, because all my attempts to make macaron cakes before ended in failure. I tried to use recipes from YouTube, but the result was bad. Thank you for your course and feedback! I recommend it to everyone buy this pasta course!"
+  },
+  "about": {
+    "title": "Becoming a pastry chef means:",
+    "description1": "Get out of your daily routine and discover your creative potential.",
+    "description2": "Decide to change your life and do something that brings you pleasure.",
+    "description3": "Start earning money from this and receiving grateful compliments.",
+    "text1": "I decided to change my life and left my day job to focus on creating macarons. Now I not only enjoy my creativity, but also have significantly increased my income. This allows me to travel and share my passion for making macarons with others.",
+    "text2": "It all started five years ago, when I baked only cakes to order and worked at my main job. Then I decided to diversify my assortment with an increasingly popular dessert - macaroons.",
+    "text3": "When making my first orders, I encountered difficulties such as exploding caps and leaking fillings, but ultimately, with hard work, I received excellent results and satisfied customers.",
+    "text4": "Then some of my clients and friends asked me to teach them how to cook macarons. I already knew all the cooking technology well and understood that in order to teach, I myself had to be well versed in this topic. My conscience simply would not allow me teach without knowing the whole process. And after I saw excellent results from my friends, I was happy and decided that I needed to develop this project and record a full course on their preparation.",
+    "text5": "Also, during these two years, I have been constantly updating the course program and videos so that it contains current and accurate instructions. These are full-fledged video lessons, where everything unnecessary is cut out. The plus is that these videos can be watched as many times as you want, while you won't learn!",
+    "text6": "If you don't have time to test recipes from YouTube, then here it is, your salvation! Learn to cook one type of dessert perfectly, but then you will know everything about it!"
+  },
+  "price": {
+    "title-big": "My courses",
+    "alt1": "Cover for the cap and filling course",
+    "alt2": "Cover for a course about caps",
+    "alt3": "Cover for a course about toppings",
+    "alt4": "Cover for Instagram course",
+    "alt5": "Course cover for all my courses",
+    "title1": "Macaroni. Lids and fillings",
+    "title2": "Lids",
+    "title3": "Fillings",
+    "title4": "Instagram Course",
+    "title5": "All courses + bonus",
+    "cost": "Price",
+    "btn": "buy",
+    "question": "Show what's included in the course"
+  },
+  "detailsOne": {
+    "1": "Technical card with a detailed description of the entire process of preparing macaron cakes, with a recipe for lids on Italian meringue with reduced sugar content. PDF file on 30 pages.",
+    "2": "Inventory purchasing guide with links to online stores.",
+    "3": "Stencils for baking lids.",
+    "4": "Technical card with a detailed description of the process of preparing fillings of different flavors. PDF file on 40 pages.",
+    "5": "Video of the entire process of preparing the caps.",
+    "6": "Video of preparing various basic fillings.",
+    "7": "Video about how to make drawings and bake shaped macarons.",
+    "8": "Consultation, answers to questions, analysis of errors, assistance in bringing it to the sales level."
+  },
+  "detailsTwo": {
+    "1": "Technical card with a detailed description of the entire process of preparing macaron cakes, with a recipe for lids on Italian meringue with reduced sugar content. PDF file on 30 pages.",
+    "2": "Inventory purchasing guide with links to online stores.",
+    "3": "Video of the entire process of preparing the caps.",
+    "4": "Stencils for baking lids.",
+    "5": "Video about how to make drawings and bake shaped lids."
+  },
+  "detailsThree": {
+    "1": "Technical card with a detailed description of the process of preparing fillings of different flavors. PDF file on 40 pages.",
+    "2": "Video of preparing various basic fillings.",
+    "3": "Principles of making ganache.",
+    "4": "Cooking different flavors of confit.",
+    "5": "Vanilla ganache on white chocolate.",
+    "6": "Classic milk chocolate ganache.",
+    "7": "Classic dark chocolate ganache.",
+    "8": "Oreo milk chocolate ganache.",
+    "9": "Orange ganache.",
+    "10": "`Pistachio-raspberry` on white chocolate.",
+    "11": "Hazelnut amaretto.",
+    "12": "Cappuccino Baileys.",
+    "13": "Poppy seed cheesecake with lemon.",
+    "14": "Fruit and berry ganache: strawberries, blueberries, currants, mango, etc.",
+    "15": "Pumpkin latte.",
+    "16": "Whipped creamy ganache.",
+    "17": "Kinder whipped milk ganache.",
+    "18": "Peanut milk chocolate with banoffee.",
+    "19": "Whipped ganache `Gingerbread Latte` or `Cappuccino`.",
+    "20": "Caramel ganache.",
+    "21": "Whipped ganache `Double Coconut` or `Bounty`.",
+    "22": "Snickers with salted caramel filling.",
+    "23": "Brie-Pear ganache.",
+    "24": "Flavour options: mint, lavender, lemon, vanilla."
+  },
+  "detailsFour": {
+    "1": "A book or PDF file with a detailed description of all the steps to develop your Instagram account.",
+    "2": "In the book, after each section, you will find homework that you can submit for checking.",
+    "3": "Access to 14 video lessons that come with the book."
+  },
+  "detailsFive": {
+    "1": "The whole course on making pasta cakes: lids and fillings.",
+    "2": "The entire course 'Instagram Promotion for Confectioners'.",
+    "3": "BONUS. Eskimo-cheesecake cooking course."
+  },
+  "receive": {
+    "1": "On the site",
+    "1.1": " - after payment, you will receive an invitation link to a closed Telegram channel.",
+    "strong1": "Lava.top",
+    "2": "I",
+    "2.1": "you have access to the channel.",
+    "strong2": "I approve",
+    "3": "If you are not comfortable using the Telegram channel, I can give you access to my private YouTube channel.",
+    "4": "To contact me, use any messenger convenient for you."
+  },
+  "question": {
+    "title": "Answers to frequently asked questions",
+    "1": "For how long will I have access to the course?",
+    "2": "If I don't have telegrams, how can I get the course?",
+    "3": "How many videos are included in the course `Caps Only`?",
+    "4": "How many videos are included in the 'Only toppings' course?",
+    "5": "Can I pay for the course via PayPal?",
+    "6": "Can I use another payment method?",
+    "7": "What should I do if I entered an email address with an error when purchasing?"
+  },
+  "answer": {
+    "1": "To be honest, I do not plan to remove your access to files. Use as much as you want. But I also cannot guarantee that Internet services will work stably for many years.",
+    "2": "For those who do not have telegrams, I will provide access to my private YouTube channel. All videos will be available there. After payment, inform me of your desire to gain access to YouTube.",
+    "3": "Currently, this course includes 10 videos with a total length of about 1 hour 30 minutes. The course is also accompanied by a detailed technical map or PDF file (30 pages)",
+    "4": "Currently, this course includes 12 videos with a total length of about 1 hour 30 minutes. The course also comes with a detailed technical map or PDF file with recipes for more than 30 different flavors of fillings (40 pages)",
+    "5": "Yes, this can be done. After payment, send me information about your payment in any convenient way and I will provide you with access to the course. You need to transfer payment for the course to d.panchenko1974@gmail.com",
+    "6": "Yes, you can transfer money in any way convenient for you: Western Union, MoneyGram, KoronaPay and others. You can also make a transfer using bank details if you are in Turkey, Georgia or Russia. To find out the details of such translations, write me a question in private messages.",
+    "7": "This is not a problem. Contact me and send me confirmation of payment. If the payment has been completed, I will provide you with access to the course."
+  }
+
+}
+

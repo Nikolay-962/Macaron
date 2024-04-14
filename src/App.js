@@ -16,7 +16,7 @@ import Price from "./components/main/price-card/Price";
 import Recive from "./components/main/recive/Recive";
 import Questions from "./components/main/questions/Questions";
 import Footer from "./components/footer/Footer";
-import { Helmet, HelmetProvider } from "react-helmet-async";
+import { HelmetProvider } from "react-helmet-async";
 import MetaTags from "./components/MetaTags";
 
 
